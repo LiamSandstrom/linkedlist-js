@@ -1,0 +1,1 @@
+Linked list in js with head and foot/tail 
